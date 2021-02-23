@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Blynk.Telldus": {
+      "commandName": "Project",
+      "commandLineArgs": "-s tcp://192.168.1.210:8080 -a 22a5b3c98a07496c8f0cfc6b856f3c3a -d -b 192.168.1.255"
+    }
+  }
+}

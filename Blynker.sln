@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D54E3B68-2091-4F14-B7C7-6C6A8ECFB7AF}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blynk.Virtual", "src\Blynk.Virtual\Blynk.Virtual.csproj", "{060BE6A3-49BB-4C14-BC6B-902F188FFF0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blynk.Repeater", "samples\Blynk.Repeater\Blynk.Repeater.csproj", "{3253EB3A-E93D-4035-BC7D-C28B2D3D71AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blynk.Tester", "samples\Blynk.Tester\Blynk.Tester.csproj", "{FD4B6B1C-032F-4BC2-8A5A-324EA322A754}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blynk.Telldus", "samples\Blynk.Telldus\Blynk.Telldus.csproj", "{2AF85756-F5E7-4C17-AE8F-1474EFA053CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blynk.Power", "samples\Blynk.Power\Blynk.Power.csproj", "{3259E129-8792-43FC-9E26-EBB8F3B4FA65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060BE6A3-49BB-4C14-BC6B-902F188FFF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060BE6A3-49BB-4C14-BC6B-902F188FFF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060BE6A3-49BB-4C14-BC6B-902F188FFF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060BE6A3-49BB-4C14-BC6B-902F188FFF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3253EB3A-E93D-4035-BC7D-C28B2D3D71AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3253EB3A-E93D-4035-BC7D-C28B2D3D71AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3253EB3A-E93D-4035-BC7D-C28B2D3D71AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3253EB3A-E93D-4035-BC7D-C28B2D3D71AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4B6B1C-032F-4BC2-8A5A-324EA322A754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4B6B1C-032F-4BC2-8A5A-324EA322A754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4B6B1C-032F-4BC2-8A5A-324EA322A754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4B6B1C-032F-4BC2-8A5A-324EA322A754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF85756-F5E7-4C17-AE8F-1474EFA053CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF85756-F5E7-4C17-AE8F-1474EFA053CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF85756-F5E7-4C17-AE8F-1474EFA053CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF85756-F5E7-4C17-AE8F-1474EFA053CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3259E129-8792-43FC-9E26-EBB8F3B4FA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3259E129-8792-43FC-9E26-EBB8F3B4FA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3259E129-8792-43FC-9E26-EBB8F3B4FA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3259E129-8792-43FC-9E26-EBB8F3B4FA65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1934895E-C8A4-479D-8F14-F0EA66DF051F}
+	EndGlobalSection
+EndGlobal

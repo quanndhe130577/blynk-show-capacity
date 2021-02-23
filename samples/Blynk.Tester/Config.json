@@ -1,0 +1,333 @@
+[
+   //Mien Bac
+   {
+      "TenClientNhaMay": "BAN_VE",
+      "IdClientTenNhaMay": 51,
+      "IdClientValueTotal": 1,
+      "listToMay": [
+         {
+            "IdToMayDB": 800,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 52,
+            "IdClientValueToMay": 2
+         },
+         {
+            "IdToMayDB": 801,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 53,
+            "IdClientValueToMay": 3
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "KHE_BO",
+      "IdClientTenNhaMay": 54,
+      "IdClientValueTotal": 4,
+      "listToMay": [
+         {
+            "IdToMayDB": 993,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 55,
+            "IdClientValueToMay": 5
+         },
+         {
+            "IdToMayDB": 994,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 56,
+            "IdClientValueToMay": 6
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "QNINH",
+      "IdClientTenNhaMay": 57,
+      "IdClientValueTotal": 7,
+      "listToMay": [
+         {
+            "IdToMayDB": 353,
+            "TenClientToMay": "S1",
+            "IdClientTenToMay": 58,
+            "IdClientValueToMay": 8
+         },
+         {
+            "IdToMayDB": 354,
+            "TenClientToMay": "S2",
+            "IdClientTenToMay": 59,
+            "IdClientValueToMay": 9
+         },
+         {
+            "IdToMayDB": 1041,
+            "TenClientToMay": "S3",
+            "IdClientTenToMay": 60,
+            "IdClientValueToMay": 10
+         },
+         {
+            "IdToMayDB": 1042,
+            "TenClientToMay": "S4",
+            "IdClientTenToMay": 61,
+            "IdClientValueToMay": 11
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "NSON_1",
+      "IdClientTenNhaMay": 62,
+      "IdClientValueTotal": 12,
+      "listToMay": [
+         {
+            "IdToMayDB": 1049,
+            "TenClientToMay": "S1",
+            "IdClientTenToMay": 63,
+            "IdClientValueToMay": 13
+         },
+         {
+            "IdToMayDB": 1050,
+            "TenClientToMay": "S2",
+            "IdClientTenToMay": 64,
+            "IdClientValueToMay": 14
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "UBI",
+      "IdClientTenNhaMay": 65,
+      "IdClientValueTotal": 15,
+      "listToMay": [
+         {
+            "IdToMayDB": 82,
+            "TenClientToMay": "S7",
+            "IdClientTenToMay": 66,
+            "IdClientValueToMay": 16
+         },
+         {
+            "IdToMayDB": 84,
+            "TenClientToMay": "S8",
+            "IdClientTenToMay": 67,
+            "IdClientValueToMay": 17
+         }
+      ]
+   },
+   //Mien Trung
+   {
+      "TenClientNhaMay": "DNAI_3",
+      "IdClientTenNhaMay": 68,
+      "IdClientValueTotal": 18,
+      "listToMay": [
+         {
+            "IdToMayDB": 977,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 69,
+            "IdClientValueToMay": 19
+         },
+         {
+            "IdToMayDB": 978,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 70,
+            "IdClientValueToMay": 20
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "DNAI_4",
+      "IdClientTenNhaMay": 71,
+      "IdClientValueTotal": 21,
+      "listToMay": [
+         {
+            "IdToMayDB": 985,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 72,
+            "IdClientValueToMay": 22
+         },
+         {
+            "IdToMayDB": 986,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 73,
+            "IdClientValueToMay": 23
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "STRANH_2",
+      "IdClientTenNhaMay": 74,
+      "IdClientValueTotal": 24,
+      "listToMay": [
+         {
+            "IdToMayDB": 941,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 75,
+            "IdClientValueToMay": 25
+         },
+         {
+            "IdToMayDB": 942,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 76,
+            "IdClientValueToMay": 26
+         }
+      ]
+   },
+   //Mien Nam
+   {
+      "TenClientNhaMay": "B_BINH",
+      "IdClientTenNhaMay": 77,
+      "IdClientValueTotal": 27,
+      "listToMay": [
+         {
+            "IdToMayDB": 807,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 78,
+            "IdClientValueToMay": 28
+         },
+         {
+            "IdToMayDB": 808,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 79,
+            "IdClientValueToMay": 29
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "D_NINH",
+      "IdClientTenNhaMay": 80,
+      "IdClientValueTotal": 30,
+      "listToMay": [
+         {
+            "IdToMayDB": 667,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 81,
+            "IdClientValueToMay": 31
+         },
+         {
+            "IdToMayDB": 668,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 82,
+            "IdClientValueToMay": 32
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "DHAI_1",
+      "IdClientTenNhaMay": 83,
+      "IdClientValueTotal": 33,
+      "listToMay": [
+         {
+            "IdToMayDB": 1079,
+            "TenClientToMay": "S1",
+            "IdClientTenToMay": 84,
+            "IdClientValueToMay": 34
+         },
+         {
+            "IdToMayDB": 1080,
+            "TenClientToMay": "S2",
+            "IdClientTenToMay": 85,
+            "IdClientValueToMay": 35
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "DHAI_3",
+      "IdClientTenNhaMay": 86,
+      "IdClientValueTotal": 36,
+      "listToMay": [
+         {
+            "IdToMayDB": 1396,
+            "TenClientToMay": "S1",
+            "IdClientTenToMay": 87,
+            "IdClientValueToMay": 37
+         },
+         {
+            "IdToMayDB": 1397,
+            "TenClientToMay": "S2",
+            "IdClientTenToMay": 88,
+            "IdClientValueToMay": 38
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "DHAI3MR",
+      "IdClientTenNhaMay": 101,
+      "IdClientValueTotal": 151,
+      "listToMay": [
+         {
+            "IdToMayDB": 1601,
+            "TenClientToMay": "S3",
+            "IdClientTenToMay": 102,
+            "IdClientValueToMay": 152
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "D_NHIM",
+      "IdClientTenNhaMay": 89,
+      "IdClientValueTotal": 39,
+      "listToMay": [
+         {
+            "IdToMayDB": 615,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 90,
+            "IdClientValueToMay": 40
+         },
+         {
+            "IdToMayDB": 616,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 91,
+            "IdClientValueToMay": 41
+         },
+         {
+            "IdToMayDB": 617,
+            "TenClientToMay": "H3",
+            "IdClientTenToMay": 92,
+            "IdClientValueToMay": 42
+         },
+         {
+            "IdToMayDB": 618,
+            "TenClientToMay": "H4",
+            "IdClientTenToMay": 93,
+            "IdClientValueToMay": 43
+         },
+         {
+            "IdToMayDB": 1600,
+            "TenClientToMay": "H5",
+            "IdClientTenToMay": 94,
+            "IdClientValueToMay": 44
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "HTHUAN",
+      "IdClientTenNhaMay": 95,
+      "IdClientValueTotal": 45,
+      "listToMay": [
+         {
+            "IdToMayDB": 641,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 96,
+            "IdClientValueToMay": 46
+         },
+         {
+            "IdToMayDB": 642,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 97,
+            "IdClientValueToMay": 47
+         }
+      ]
+   },
+   {
+      "TenClientNhaMay": "DA_MI",
+      "IdClientTenNhaMay": 98,
+      "IdClientValueTotal": 48,
+      "listToMay": [
+         {
+            "IdToMayDB": 650,
+            "TenClientToMay": "H1",
+            "IdClientTenToMay": 99,
+            "IdClientValueToMay": 49
+         },
+         {
+            "IdToMayDB": 651,
+            "TenClientToMay": "H2",
+            "IdClientTenToMay": 100,
+            "IdClientValueToMay": 50
+         }
+      ]
+   }
+]
